@@ -1,1 +1,1 @@
-# Projeto-React-Blog-Deply
+# Projeto-React-Blog-Deploy
