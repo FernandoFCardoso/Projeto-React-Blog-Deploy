@@ -1,0 +1,17 @@
+.cursor{
+    cursor: pointer;
+}
+
+.btnModal{
+    
+        font-weight: bold !important;
+        margin-left: 10px !important;
+        color: rgba(247, 245, 245, 0.856)!important;
+        background-color:#8B0000	 !important;
+    }
+    .btnModal:hover{
+        font-weight: bold !important;
+        margin-left: 10px !important;
+        color: #8B0000	 !important;
+        background-color:rgb(248, 241, 241)!important;
+    }

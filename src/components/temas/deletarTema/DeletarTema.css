@@ -1,0 +1,27 @@
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.fundoPost1{
+    background-color:#8B0000	 !important;
+}
+.fundoPost2{
+    background-color: rgb(26, 24, 24) !important;
+}
+
+.cor-boton4{
+    font-weight: bold !important;
+    margin-left: 0px !important;
+    color: rgba(247, 245, 245, 0.856)!important;
+    background-color:#8B0000	 !important;
+}
+.cor-boton4:hover{
+    font-weight: bold !important;
+    margin-left: 0px !important;
+    color: #8B0000	 !important;
+    background-color:rgb(248, 241, 241)!important;
+}
+
+.corTexto{
+    color: honeydew !important;
+}

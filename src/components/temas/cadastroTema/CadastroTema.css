@@ -1,0 +1,26 @@
+
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.fundoPost{
+    background-color:#8B0000	 !important;
+}
+.fundoPost3{
+    background-color: rgb(104, 102, 102) !important;
+}
+
+.cor-boton3{
+    font-weight: bold !important;
+    margin-left: 0px !important;
+    color: rgba(247, 245, 245, 0.856)!important;
+    background-color:#8B0000	 !important;
+}
+.cor-boton3:hover{
+    font-weight: bold !important;
+    margin-left: 0px !important;
+    color: #8B0000	 !important;
+    background-color:rgb(248, 241, 241)!important;
+}
+

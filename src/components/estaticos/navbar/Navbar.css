@@ -1,0 +1,25 @@
+
+.cursor{
+    cursor:pointer;
+    color:rgb(248, 245, 245);
+    
+
+}
+
+
+.cursor2{
+    cursor:pointer;
+    color:rgb(248, 245, 245);
+    margin: 0px 0px 0px 400px !important;
+
+}
+.text-decorator-none{
+    text-decoration: none;
+    margin: 0px 0px 0px 70px;
+}
+
+.cor-nave-bar{
+    background-color: #8B0000	 !important;
+}
+
+

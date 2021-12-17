@@ -1,0 +1,68 @@
+.imagem2{
+    background-image: url(https://i.imgur.com/aGSw1eh.gif);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.textos3{
+    color: rgb(253, 251, 251) !important;
+    font-weight: bold !important;
+   
+}
+
+.cor-fundo-cadastro{
+    background-color:rgb(53, 53, 53)!important;
+}
+
+.btnCancelar{
+    margin-right: 20px !important;
+    font-weight: bold !important;
+    color: rgba(0, 0, 0, 0.856)!important;
+    background-color:#8B0000	 !important;
+}
+
+.cor-boton2{
+    font-weight: bold !important;
+    color: rgba(0, 0, 0, 0.856)!important;
+    background-color:#8B0000	 !important;
+ }
+
+ .cor-boton2:hover{
+        font-weight: bold !important;
+        color: #8B0000	 !important;
+        background-color:rgb(19, 18, 18)!important;
+ }
+
+ .cor-boton3{
+    font-weight: bold !important;
+    color: #8B0000	 !important;
+    background-color:rgb(10, 10, 10)!important;
+    margin-right: 10px !important;
+   
+ }
+
+ .cor-boton3:hover{
+        font-weight: bold !important;
+        color: rgb(20, 20, 20)!important;
+        background-color:#8B0000	 !important;
+ }
+
+
+
+/* Estilizar o AutoFill */
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover,
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+  -webkit-text-fill-color: white;
+  -webkit-box-shadow: 0 0 0px 1000px rgb(53, 53, 53) inset;
+  transition: background-color 5000s ease-in-out 0s;
+}
